@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Login Page",
+    "desc": "Created the login page using the React and MaterialUI",
+    "image": "loginpage",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Integrated Security suite for laptop",
+    "desc": "We had used the python libraries to create an GUI",
+    "image": "securitysuite",
+    "category": "application",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Caluclator web application",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "calcula",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
